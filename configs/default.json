@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "jwt": {
+    "key": "x283401ct3cmgu03ptgnv9g429f231f3f0hqd2h1cnkeh273217kl459gh2sxvn"
+  }
+}
